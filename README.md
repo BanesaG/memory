@@ -2,9 +2,7 @@
 
 Fun and simple memory game, like the one from Super Mario 3, made with plain JavaScript.
 
-# Instructions
-
-Just want to view the source of all the steps from start to finish? 
+# The Game
 
 * Display 12 cards.
 * Duplicate the cards to have 2 sets of 12.
@@ -16,3 +14,5 @@ Just want to view the source of all the steps from start to finish?
 * Add delay to selections.
 * Show back of card initially and flip on select
 * Finished game!
+
+# Deploy
