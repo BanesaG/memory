@@ -17,4 +17,4 @@ Fun and simple memory game, like the one from Super Mario 3, made with plain Jav
 
 # Deploy
 
-[Memory Game](https://banesag.github.io/game/)
+[Memory Game](https://banesag.github.io/memory/)
